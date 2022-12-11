@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aozora-uk.github.io/Aozora-uk-portal/sitemap.xml
